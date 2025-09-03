@@ -82,10 +82,6 @@ Python 3.9 or higher
 pip and venv
 
 2. Clone the Repository:
-
-Bash
-
-git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 3. Create and Activate a Virtual Environment:
 
